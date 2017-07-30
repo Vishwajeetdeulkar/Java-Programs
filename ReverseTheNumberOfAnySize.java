@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class ReverseTheNumber
+class ReverseTheNumberOfAnySize
 {
 //start of a class
 public static void main(String args[])
